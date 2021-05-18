@@ -1,6 +1,6 @@
 FROM python:3.7-alpine
 MAINTAINER Anand
-#comment
+
 ENV PYTHONUBUFFERED 1
 
 COPY ./requirements.txt /requirements.txt
