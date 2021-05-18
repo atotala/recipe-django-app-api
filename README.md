@@ -1,2 +1,2 @@
 # recipe-django-app-api
-Recipe dhango app API
+Recipe dhango app API.
